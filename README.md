@@ -10,14 +10,23 @@ En caso de soluciones múltiples, se prioriza el cuadrado más cercano a la esqu
 Ejemplo de formato del mapa:
 50x1
 000000000
+
 00x000x00
+
 xxx000x00
+
 x0x0x0x0x
+
 000000000
 
 Solución:
+
 000111000
+
 00x111x00
+
 xxx111x00
+
 x0x0x0x0x
+
 000000000
